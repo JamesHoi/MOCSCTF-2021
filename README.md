@@ -1,7 +1,7 @@
 # MOCSCTF-2021
-Merak20级大佬们为MOCSCTF所出的题
+Merak20级大佬们帮忙所出给MOCSCTF的题
 
-出题人与题目一览
+## 出题人与题目一览
 |  题目类型   |  题目   | Writeup  |  出题人  |
 | :----: | :----: | :----: | :----: |
 |  Misc  | [Happy_check](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/Happy_check/puzzle.png) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/Happy_check/Happy_check_wp.pdf) | P0tato |
