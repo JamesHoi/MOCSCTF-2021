@@ -3,7 +3,7 @@ Merak20级大佬们为MOCSCTF所出的题
 
 出题人与题目一览
 |  题目类型   |  题目   | Writeup  |  出题人  |
-|  ----   | ----  | ----  |
+| :----: | :----: | :----: | :----: |
 |  Misc  | [Happy_check](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/Happy_check/puzzle.png) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/Happy_check/Happy_check_wp.pdf) | P0tato |
 | Misc  | [sth_in_picture](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/sth_in_picture/something_in_picture.png) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/sth_in_picture/sth_in_picture_Wirteup.pdf) | P0tato |
 | Misc  | [神秘咒文](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/%E7%A5%9E%E7%A7%98%E5%92%92%E6%96%87/mantra.txt) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Misc/%E7%A5%9E%E7%A7%98%E5%92%92%E6%96%87/writeup.pdf) | 茯苓 |
