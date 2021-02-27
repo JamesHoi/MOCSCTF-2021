@@ -11,7 +11,7 @@ Merak20级大佬们帮忙出给MOCSCTF的题
 | Pwn  | [int_overflow](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Pwn/int_overflow/int_overflow) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Pwn/int_overflow/int_overflow_writeup.md) | [:link:](https://github.com/JamesHoi/MOCSCTF-2021/tree/main/Pwn/int_overflow)| Mark0519 |
 | Pwn  | [shellcode](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Pwn/shellcode/pwn) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Pwn/shellcode/WP.pdf) | [:link:](https://github.com/JamesHoi/MOCSCTF-2021/tree/main/Pwn/shellcode)| aYoung |
 | Pwn  | [ez_stack]() | [wp]() | [:link:]()| Ch4rc0al |
-| Reverse  | [maze](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Reverse/maze/game.exe) | [wp]() | [:link:](https://github.com/JamesHoi/MOCSCTF-2021/tree/main/Reverse/maze)| Ch4rc0al |
+| Reverse  | [maze](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Reverse/maze/game.exe) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Reverse/maze/writeup.pdf) | [:link:](https://github.com/JamesHoi/MOCSCTF-2021/tree/main/Reverse/maze)| Ch4rc0al |
 | Reverse  | [signIn](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Reverse/signIn/signIn.exe) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Reverse/signIn/writeup.pdf) | [:link:](https://github.com/JamesHoi/MOCSCTF-2021/tree/main/Reverse/signIn)| James |
 | Reverse  | [ez_unpack](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Reverse/ez_unpack/ez_unpack.exe) | [wp](https://github.com/JamesHoi/MOCSCTF-2021/blob/main/Reverse/ez_unpack/writeup.pdf) | [:link:](https://github.com/JamesHoi/MOCSCTF-2021/tree/main/Reverse/ez_unpack)| James |
 | Reverse  | [crackme]() | [wp]() | [:link:]()| James |
