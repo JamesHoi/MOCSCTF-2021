@@ -182,6 +182,6 @@ int main()
         }
     }
     system("cls");
-    cout << "Congratulation!!! flag = MOCSCTF{(md5 of best input)}";
+    cout << "Congratulation!!! flag = MOCSCTF{(md5 32 lowercase of best input)}";
     return 0;
 }
