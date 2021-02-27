@@ -112,14 +112,11 @@ int main()
     bool book[100][100];
     memset(book, 0, sizeof(book));
     cout << "Welcome to MOCSCTF!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" << endl;
+    cout << "Please input your flag:" << endl;
     system("pause");
     system("cls");
     while (x != tx || y != ty)
     {
-        for (int i = 0; i < 100; i++)
-            puts(map[i]);
-        puts("Use WSAD to move from I to @");
-        puts("You can never go back!!!");
         char key;
         key = getch();
         switch (key)
