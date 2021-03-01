@@ -1,1 +1,0 @@
-copy /b zipboom.png+Wow.zip zipbooom.png
