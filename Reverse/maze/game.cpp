@@ -121,7 +121,6 @@ int main()
         key = getch();
         switch (key)
         {
-        case 'a':
         case 'A':
         {
             int nx = x;
@@ -135,7 +134,6 @@ int main()
             system("cls");
             break;
         }
-        case 'd':
         case 'D':
         {
             int nx = x;
@@ -149,7 +147,6 @@ int main()
             system("cls");
             break;
         }
-        case 'w':
         case 'W':
         {
             int nx = x - 1;
@@ -163,7 +160,6 @@ int main()
             system("cls");
             break;
         }
-        case 's':
         case 'S':
         {
             int nx = x + 1;
